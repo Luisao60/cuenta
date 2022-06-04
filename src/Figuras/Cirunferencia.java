@@ -25,6 +25,9 @@ public class Cirunferencia {
         this.radio = rad;
     }
 
+    /*
+    * Comentario añadido
+    */
     public void imprimir() {
         String color = "rojo";
         System.out.println("Di�metro: " + 2 * radio);
